@@ -1,0 +1,13 @@
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.exe
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.deps.json
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.runtimeconfig.json
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.runtimeconfig.dev.json
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.dll
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\bin\Debug\netcoreapp3.1\salamalekum.pdb
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.csprojAssemblyReference.cache
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.AssemblyInfoInputs.cache
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.AssemblyInfo.cs
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.csproj.CoreCompileInputs.cache
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.dll
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.pdb
+C:\Users\Shaman\source\repos\salamalekum\salamalekum\obj\Debug\netcoreapp3.1\salamalekum.genruntimeconfig.cache
